@@ -1,2 +1,2 @@
 # CHIDEM
-Converting Historical Imagery to DEM
+Converting Historical Imagery to DEMs
